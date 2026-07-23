@@ -10,6 +10,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Experience-7%2B_Years-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" />
+    <img src="https://img.shields.io/badge/Linux_Kernel-Contributor-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Security-DevSecOps_%26_Hardening-FF0055?style=for-the-badge&logo=shield&logoColor=white" />
     <img src="https://img.shields.io/badge/Education-SAMPAD_Gifted_School-FFB800?style=for-the-badge&logo=academicons&logoColor=black" />
   </p>
@@ -59,6 +60,7 @@ $ cat identity.json
 
 ### 🏆 Key Accomplishments & Recognitions
 
+- 🐧 **Linux Kernel Contributor:** Authored patches accepted into the official Linux Kernel staging tree (`rtl8723bs` wireless driver) under Greg Kroah-Hartman's maintainership. ([View Commit Log](https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging.git/log/?qt=author&q=Amin+Madani))
 - 🥇 **1st Place – Provincial Python Programming Olympiad:** Ranked 1st among top elite programmers.
 - 🎯 **National Finalist – HeliCode Programming Contest:** Hosted by **SAMPAD** (*National Organization for Development of Exceptional Talents*).
 - 📜 **Certified Specialist:** Microsoft Credentials & 7+ Advanced Coursera Specializations in Software Architecture & Cybersecurity.
