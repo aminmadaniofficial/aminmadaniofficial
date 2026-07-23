@@ -1,57 +1,55 @@
 <div align="center">
 
-  <!-- Header Typing Effect -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Architect+%26+DevSecOps;High-Concurrency+Backend+Systems;AI+Orchestration+%26+Infrastructure+Hardening" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Architect+%26+DevSecOps+Researcher;High-Concurrency+Systems+%26+Cloud+Security;AI+Orchestration+%26+Infrastructure+Hardening" alt="Typing SVG" />
   </a>
 
-  <h1>Hi there, I'm Mohammadamin Madani 👋</h1>
+  <h1>Mohammadamin Madani</h1>
 
-  <p><b>Architecting Secure, High-Performance Systems & AI Infrastructures</b></p>
+  <p><b>Senior Software Architect | DevSecOps Specialist | System Engineer</b></p>
 
-  <!-- Quick Badges -->
   <p>
     <img src="https://img.shields.io/badge/Experience-7%2B_Years-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" />
-    <img src="https://img.shields.io/badge/Focus-DevSecOps_%26_Backend-FF0055?style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/Security-DevSecOps_%26_Hardening-FF0055?style=for-the-badge&logo=shield&logoColor=white" />
     <img src="https://img.shields.io/badge/Education-SAMPAD_Gifted_School-FFB800?style=for-the-badge&logo=academicons&logoColor=black" />
   </p>
 
   <p>
-    <a href="https://aminmadani.xyz">🌐 Portfolio</a> • 
-    <a href="mailto:aminmadani112@gmail.com">✉️ Email Me</a> • 
-    <a href="https://linkedin.com/in/aminmadaniofficial">💼 LinkedIn</a>
+    <a href="https://aminmadani.xyz"><img src="https://img.shields.io/badge/Portfolio-aminmadani.xyz-000000?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+    <a href="mailto:aminmadani112@gmail.com"><img src="https://img.shields.io/badge/Email-aminmadani112@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/aminmadaniofficial"><img src="https://img.shields.io/badge/LinkedIn-aminmadaniofficial-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <img src="https://komarev.com/ghpvc/?username=aminmadaniofficial&color=00f0ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-### 🛡️ Executive Summary
-
-I am a **Software Architect & DevSecOps Researcher** with over 7 years of hands-on experience designing resilient backend systems, hardening infrastructure, and scaling complex applications. 
-
-My work sits at the convergence of **High-Concurrency Systems**, **Enterprise Security**, and **AI Orchestration**. I bridge the gap between rapid software delivery and uncompromising security standards.
+### 🥷 System Philosophy & Architecture
 
 ```bash
-$ identity --whoami
-> Full-Stack Engineeer | DevSecOps Specialist | System Architect
-
-$ current_focus
-> 📡 Building Enterprise-Grade Secure Reporting Systems
-> 🤖 Exploring AI Orchestration & Automated Threat Mitigation
+$ cat identity.json
+{
+  "name": "Mohammadamin Madani",
+  "role": "Full-Stack Engineer & Security Researcher",
+  "experience": "7+ Years",
+  "specialization": ["High-Concurrency Backend", "DevSecOps", "System Architecture", "AI Integration"],
+  "architecture_patterns": ["Microservices", "Event-Driven", "Domain-Driven Design (DDD)", "Zero Trust Security"],
+  "current_focus": "Enterprise-Grade Secure Reporting & Threat Mitigation Systems"
+}
 ```
 
 ---
 
-### 💻 Technical Arsenal
+### ⚡ Core Technical Arsenal
 
 <div align="center">
 
-| Domain | Tech Stack & Tools |
+| Area | Technologies & Frameworks |
 | :--- | :--- |
-| **Core Languages** | ![](https://skillicons.dev/icons?i=python,php,java,cpp,rust,go,dart) |
-| **Backend & Frameworks** | ![](https://skillicons.dev/icons?i=django,laravel,nodejs,express,nestjs,fastapi) |
-| **DevSecOps & Cloud** | ![](https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,kali,bash,git,githubactions) |
+| **Languages** | ![](https://skillicons.dev/icons?i=python,php,java,cpp,rust,go,dart) |
+| **Backend Frameworks** | ![](https://skillicons.dev/icons?i=django,laravel,nodejs,express,nestjs,fastapi) |
+| **Infrastructure & Security** | ![](https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,kali,bash,git,githubactions) |
 | **Databases & Caching** | ![](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite) |
 | **Frontend & Mobile** | ![](https://skillicons.dev/icons?i=react,angular,flutter,tailwind) |
 
@@ -59,35 +57,32 @@ $ current_focus
 
 ---
 
-### 🏆 Honors & National Recognitions
+### 🏆 Key Accomplishments & Recognitions
 
-* 🥇 **1st Place – Provincial Python Programming Olympiad:** Ranked #1 among top-tier elite programmers.
-* 🎯 **National Finalist – HeliCode Contest:** Organized by *SAMPAD* (National Organization for Development of Exceptional Talents).
-* 📜 **Certified Professional:** Microsoft Certified & completed 7+ Specialized Security & Software Engineering tracks via Coursera.
+- 🥇 **1st Place – Provincial Python Programming Olympiad:** Ranked 1st among top elite programmers.
+- 🎯 **National Finalist – HeliCode Programming Contest:** Hosted by **SAMPAD** (*National Organization for Development of Exceptional Talents*).
+- 📜 **Certified Specialist:** Microsoft Credentials & 7+ Advanced Coursera Specializations in Software Architecture & Cybersecurity.
 
 ---
 
-### 📊 GitHub Engineering Metrics
+### 📈 GitHub Analytics & Activity
 
 <div align="center">
 
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminmadaniofficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminmadaniofficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </p>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aminmadaniofficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aminmadaniofficial&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminmadaniofficial&theme=tokyonight&hide_border=true" alt="aminmadaniofficial streak" />
-  </p>
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminmadaniofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+### 🌐 Connect & Network
 
-<div align="center">
-
+<p align="center">
   <a href="https://linkedin.com/in/aminmadaniofficial">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -100,11 +95,4 @@ $ current_focus
   <a href="mailto:aminmadani112@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-</div>
-
-<br />
-
-<div align="center">
-  <sub>Designed with ❤️ & Security in Mind by Mohammadamin Madani</sub>
-</div>
+</p>
