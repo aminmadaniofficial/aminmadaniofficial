@@ -9,7 +9,7 @@
   <p><b>Senior Software Architect | DevSecOps Specialist | System Engineer</b></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Experience-7%2B_Years-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" />
+    <img src="https://img.shields.io/badge/Experience-6%2B_Years-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" />
     <img src="https://img.shields.io/badge/Linux_Kernel-Contributor-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Security-DevSecOps_%26_Hardening-FF0055?style=for-the-badge&logo=shield&logoColor=white" />
     <img src="https://img.shields.io/badge/Education-SAMPAD_Gifted_School-FFB800?style=for-the-badge&logo=academicons&logoColor=black" />
@@ -33,7 +33,7 @@ $ cat identity.json
 {
   "name": "Mohammadamin Madani",
   "role": "Full-Stack Engineer & Security Researcher",
-  "experience": "7+ Years",
+  "experience": "6+ Years",
   "specialization": ["High-Concurrency Backend", "DevSecOps", "System Architecture", "AI Integration"],
   "architecture_patterns": ["Microservices", "Event-Driven", "Domain-Driven Design (DDD)", "Zero Trust Security"],
   "current_focus": "Enterprise-Grade Secure Reporting & Threat Mitigation Systems"
