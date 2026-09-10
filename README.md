@@ -1,12 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&text=Mohammadamin%20Madani&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20DevSecOps%20%7C%20Linux%20Kernel%20Contributor&descFontSize=16&descAlignY=58&color=gradient&custom_color_list=0:%230f172a,50:%231e1e2e,100:%2300f0ff" width="100%" alt="Header Banner" />
-
-  <!-- Animated Typing Subtitle -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Architect+%26+DevSecOps+Specialist;Linux+Kernel+Contributor+(staging%2Frtl8723bs);High-Throughput+Systems+%26+Distributed+Infra;AI+Orchestration+%26+Infrastructure+Hardening" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&text=Mohammadamin%20Madani&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20DevSecOps%20%7C%20Systems%20Programming&descFontSize=15&descAlignY=58&color=gradient&custom_color_list=0:%230f172a,50:%231e1e2e,100:%2300f0ff" width="100%" alt="Header Banner" />
 
   <br/>
 
@@ -33,31 +28,22 @@
 
 ---
 
-### 🥷 System Philosophy & Architecture
+### 💻 About Me & Engineering Focus
 
 ```bash
-amin@hyperion:~$ cat /etc/identity.json
+$ cat identity.json
 {
-  "engineer": "Mohammadamin Madani",
-  "archetype": "Full-Stack System Architect & Security Researcher",
-  "experience": "6+ Years of Production Engineering",
-  "core_focus": [
-    "High-Concurrency Backends & Distributed Systems",
-    "Kernel-Level & Low-Level Systems Programming",
-    "DevSecOps, Zero-Trust Architecture & Threat Modeling",
-    "Cryptographic Protocols & Esoteric Steganography"
-  ],
-  "design_principles": [
-    "Clean Architecture / Domain-Driven Design (DDD)",
-    "Non-Blocking Asynchronous I/O Event Loops",
-    "Defense-in-Depth Infrastructure Hardening"
-  ]
+  "name": "Mohammadamin Madani",
+  "role": "Software Engineer & Security Researcher",
+  "experience": "6+ Years",
+  "domains": ["Systems Programming", "Backend Architecture", "DevSecOps", "Network Security"],
+  "focus": "Building reliable, secure, and maintainable software"
 }
 ```
 
 ---
 
-### 🏆 Key Accomplishments & Distinctions
+### 🏆 Accomplishments & Distinctions
 
 <table>
   <tr>
@@ -71,7 +57,7 @@ amin@hyperion:~$ cat /etc/identity.json
     <td width="50%">
       <div align="left">
         <b>🥇 1st Place – Provincial Python Olympiad</b><br/>
-        Ranked 1st place in the provincial competitive programming Olympiad, demonstrating deep algorithmic efficiency and problem solving.
+        Ranked 1st place in the provincial competitive programming Olympiad.
       </div>
     </td>
   </tr>
@@ -79,13 +65,13 @@ amin@hyperion:~$ cat /etc/identity.json
     <td width="50%">
       <div align="left">
         <b>🎯 National Finalist – HeliCode</b><br/>
-        National Finalist in the prestigious competitive programming championship organized by <b>SAMPAD</b> (<i>National Organization for Development of Exceptional Talents</i>).
+        National Finalist in the programming championship organized by <b>SAMPAD</b> (<i>National Organization for Development of Exceptional Talents</i>).
       </div>
     </td>
     <td width="50%">
       <div align="left">
-        <b>📜 Certified Systems & Security Specialist</b><br/>
-        Recipient of Microsoft Professional Credentials along with 7+ advanced specializations across Cloud Infrastructure, Cybersecurity, and Software Architecture.
+        <b>📜 Certified Specialist</b><br/>
+        Microsoft Professional Credentials & 7+ Specializations across Cloud Infrastructure, Cybersecurity, and Software Architecture.
       </div>
     </td>
   </tr>
@@ -93,17 +79,17 @@ amin@hyperion:~$ cat /etc/identity.json
 
 ---
 
-### ⚡ Core Technical Arsenal
+### ⚡ Technical Arsenal
 
 <div align="center">
 
 | Domain | Stack |
 | :--- | :--- |
 | **Systems & Core** | <img src="https://skillicons.dev/icons?i=python,cpp,rust,go,java,bash,dart" alt="Core Languages" /> |
-| **Backend & Cloud Architecture** | <img src="https://skillicons.dev/icons?i=fastapi,django,nestjs,nodejs,express,laravel,spring" alt="Backend" /> |
-| **DevSecOps, Infra & CI/CD** | <img src="https://skillicons.dev/icons?i=linux,docker,nginx,kali,git,githubactions" alt="Infra & Security" /> |
-| **Databases & Telemetry** | <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,sqlite" alt="Databases" /> |
-| **Frontend & Cross-Platform** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,flutter,tailwind" alt="Frontend" /> |
+| **Backend Frameworks** | <img src="https://skillicons.dev/icons?i=fastapi,django,nestjs,nodejs,express,laravel,spring" alt="Backend" /> |
+| **DevSecOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=linux,docker,nginx,kali,git,githubactions" alt="Infra & Security" /> |
+| **Databases & Storage** | <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,sqlite" alt="Databases" /> |
+| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,flutter,tailwind" alt="Frontend" /> |
 
 </div>
 
