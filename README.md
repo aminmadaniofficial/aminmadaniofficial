@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:#0f172a,50:#1e1e2e,100:#00f0ff&height=200&section=header&text=Mohammadamin%20Madani&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Architect%20%7C%20DevSecOps%20%7C%20Linux%20Kernel%20Contributor&descFontSize=16&descAlignY=58" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&text=Mohammadamin%20Madani&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20DevSecOps%20%7C%20Linux%20Kernel%20Contributor&descFontSize=16&descAlignY=58&color=gradient&custom_color_list=0:%230f172a,50:%231e1e2e,100:%2300f0ff" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://readme-typing-svg.demolab.com">
@@ -165,5 +165,5 @@ amin@hyperion:~$ cat /etc/identity.json
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:#0f172a,50:#1e1e2e,100:#00f0ff&height=90&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&custom_color_list=0:%230f172a,50:%231e1e2e,100:%2300f0ff" width="100%" alt="Footer Banner" />
 </div>
